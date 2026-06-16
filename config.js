@@ -11,9 +11,9 @@ const CONFIG = {
     // Custom messages
     messages: {
         subtitle: "Você é o sorriso dos meus dias",
-        loveNote: "Desde o dia 17 as nossas conversas são a base dos meus dias, te ver sorrir, se irritar, dormir, comer ou fazer qualquer coisa já me deixa extremamente completo 💖",
+        loveNote: "Desde o dia 16/11/2025 você é a parte mais importante do meu dia, qualquer momento sem ter você é extremamente mais triste, obrigado por ser essa pessoa incrivel e forte, desejo continuar sendo seu amigo, namorado e futuro esposo por muito mais tempo, te amo 💖",
         specialMessage: "A gente se conheceu num acaso, em uma resposta de um stories nos juntamos até hoje, sem nunca parar de se falar um dia, sem pensar no outro em nenhum momento",
-        specialMessage2: "Obrigado por cuidar de mim com muito carinho e cuidado, obrigado por acreditar no que a gente pode fazer, obrigado por aceitar viver uma vida comigo 💕"
+        specialMessage2: "Obrigado por cuidar de mim com muito amor e carinho, obrigado por acreditar no que a gente é, obrigado por aceitar viver uma vida comigo 💕"
     },
     
     // Memory descriptions
