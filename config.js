@@ -18,9 +18,9 @@ const CONFIG = {
     
     // Memory descriptions
     memories: {
-        lateNight: "Todas nossas conversas ou chamadas que pareciam que o tempo parava para nos ver",
-        firstMeeting: "Nossa primeira foto, não é a do dia do churrasquinho mas queria",
-        care: "Você sempre carregando beleza, presença e uma bela franja"
+        lateNight: "Todas nossas chamdas de horas que pareciam que o tempo parava para nos ouvir",
+        firstMeeting: "Nosso primeiro encontra repleto de timidez e conexão intensa",
+        care: "Você sempre cuidando e observando o que vai ser melhor pra mim"
     },
     
     // Character descriptions
@@ -31,9 +31,9 @@ const CONFIG = {
     
     // Special messages for different kiss counts
     kissMessages: {
-        10: "10 Beijos! Você é tão linda! 💕",
-        50: "50 Beijos! Eu estou apaixonado 💖",
-        100: "100 Beijos Você é a mulher da minha vida! 💘"
+        10: "10 Beijos! Você me ama mesmo? 💕",
+        50: "50 Beijos! Eu acho que vc me ama💖",
+        100: "100 Beijos Vamos casar, por favor!!! 💘"
     },
     
     // Character interaction messages
@@ -44,9 +44,9 @@ const CONFIG = {
     
     // Memory effect messages
     memoryMessages: {
-        lateNight: "Todas as nossas conversas antes de dormir são os nossos momentos mais intimos e sinceros",
-        firstMeeting: "Eu sabia que você era especial deste quando te vi sorrir 💫💕",
-        care: "Você é uma das almas mais bonitas que eu já vi"
+        lateNight: "Não trocaria nossas conversas de horas por nada",
+        firstMeeting: "Quando te vi sorrir pessoalmente eu tinha certeza que você era especial💫💕",
+        care: "Você é a mulher que melhor cuidou de mim até hoje"
     }
 };
 

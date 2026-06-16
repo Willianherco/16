@@ -125,10 +125,10 @@ document.addEventListener('DOMContentLoaded', function() {
     loveButton.addEventListener('click', function() {
         loveNote.classList.toggle('visible');
         if (loveNote.classList.contains('visible')) {
-            loveButton.textContent = 'Hide My Love Note 💝';
+            loveButton.textContent = 'Uma pequena declaração 💝';
             createHeartBurst();
         } else {
-            loveButton.textContent = 'Click for a surprise 💝';
+            loveButton.textContent = 'Aperte para uma surpresa 💝';
         }
     });
 
@@ -244,15 +244,15 @@ document.addEventListener('DOMContentLoaded', function() {
             switch(type) {
                 case 'late-night':
                     createStars();
-                    showMemoryMessage(window.CONFIG.memoryMessages.lateNight || "Those late nights talking with you are my favorite memories 🌙✨");
+                    showMemoryMessage(window.CONFIG.memoryMessages.lateNight || "Nossas conversas até dormirmos🌙✨");
                     break;
                 case 'first-meeting':
                     createSparkles();
-                    showMemoryMessage(window.CONFIG.memoryMessages.firstMeeting || "I know the day we meet will be magical and unforgettable 💫💕");
+                    showMemoryMessage(window.CONFIG.memoryMessages.firstMeeting || "O nosso primeiro encontro💫💕");
                     break;
                 case 'care':
                     createHeartRain();
-                    showMemoryMessage(window.CONFIG.memoryMessages.care || "Your caring nature, sweet voice, and adorable cuteness melt my heart 💕😍");
+                    showMemoryMessage(window.CONFIG.memoryMessages.care || "Seu cuidado e delicadeza 💕😍");
                     break;
             }
         }
